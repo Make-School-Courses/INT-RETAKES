@@ -1,89 +1,65 @@
-# INT-1.3 and INT-2.3 Spring Intensive
+# Intensive Retakes
 
-## Course Description ([Course Tracker](https://docs.google.com/spreadsheets/d/1VwXNWcWpcLQuZCEwvPO1_W0JiarsNiL0nBzUZZEyAGQ/edit#gid=0))
+## Course Description
 
-## Proposal Approvals and Office Hours: [make.sc/int-help-portal](make.sc/int-help-portal)
+Intensive courses are hands on, immersive experiences designed to give students time to apply their skills to building original products (website or apps) and practice software engineering skills.
 
-Intensive courses are hands on, immersive experiences designed to give students time to apply their skills to building original products (website or apps) and practice software engineering skills. The course is a week of coding all day with daily check ins and feedback from instructors on progress, short instructional session on key concepts, and ongoing support from instructors and classmates. In Spring Intensive 1 the focus is on user testing, shipping products as well best practices and steps to build and pitch an original product in a week. The Intensive culminates with a Demo Night in which each student pitches their product to their classmates, industry professionals and recruiters.
+**For retaking the intensive, you will use the appropriate repo to find all rubrics, specifications, documents, etc. The schedule for your intensive will be here, everything else will be in the appropriate repository**
 
-**INT 1.3 Spring Intensive 1** is for Juniors while **INT 2.3 Spring Intensive 2** is for Seniors. Students will work on similar skills with different evaluation criteria and expectations.
+## [Course Tracker]()
 
-## Prerequisites:
+## Intensive Repos
 
-- None
+For the intensive you are re-taking, use the appropriate repo to find:
 
-## Learning Objectives
+- Proposal templates
+- Rubrics
+- Intensive specifications
+- Evaluation Criteria 
 
-Students by the end of this intensive will be able to ...
+**See the _Schedule_ section in this repo to follow for your retake. DO NOT follow the schedule in the linked repos**
 
-1. Build and ship an app or product in your language concentration
-1. Explain the value of your product via a product pitch
-1. Provide and receive constructive feedback on your app idea, designs, and code
-1. Scope your product effectively
-1. Ship products efficiently
+### [INT 1.1 / 2.1](https://github.com/Make-School-Courses/INT-1.1-AND-INT-2.1-Fall-Intensive)
 
-## [Schedule](https://calendar.google.com/calendar/b/1/r/week/2020/3/16?tab=mc)
+### [INT 1.2 / 2.2](https://github.com/Make-School-Courses/INT-1.2-AND-INT-2.2-Winter-Intensive)
 
-**Intensive Dates:** Monday, March 16 – Friday, March 27 (12 days)
-
-**Note:**
-- Please check the [College Calendar](https://calendar.google.com/calendar/b/1/r/week/2020/3/16?tab=mc) for office hour times
-
-**Session Times:**
-Attendance is required from 9:30 to 5:30 every day including the following sessions on the schedule:
+### [INT 1.3 / 2.3](https://github.com/Make-School-Courses/INT-1.3-AND-INT-2.3-Spring-Intensive)
 
 
-|          Date        |    Time    |             Topics                    |
-:---------------------:|:----------:|:------------------------------:|
-| **Monday, 3/16**     |  9:30-10:30am | [Intensive Kickoff Ceremony]        |
-|                      |  10:30-11:00am | Make School Portfolio             | 
-|                      |  11:00am-12:30pm, 1:30-5:30pm | Proposal Approval  |
-| **Tuesday, 3/17**    | 9:30 am-9:55am | Checkin Standup                   |
-| |  10:00 am-10:50am | [Accessibility] + [Scoping your product effectively]                    |
-| **Wednesday, 3/18**  | 9:30 am-9:55am | Checkin Standup                   |
-| | 10:00 am-10:50am | Debugging with Jess                            |
-| **Thursday, 3/19**   | 9:30 am-9:55am | Checkin Standup                   |
-| | 10:00 am-10:50am | [Shipping Is A Superpower]      |
-| **Monday, 3/23**     | 9:30 am-9:55am | Checkin Standup                   |
-| | 10:00 am-10:50am | [User Testing]                                 |
-| **Tuesday, 3/24**    | 9:30 am-9:55am | Checkin Standup                   |
-| **Wednesday, 3/25**    | 10:00am-12:00pm  | Pitch Presentations                   |
+## Schedule
 
-[Intensive Kickoff Ceremony]: https://docs.google.com/presentation/d/1P3rxO3vaeR9S16M1b-gVwyFfz_lYOyTGMexI3e9CRVw/edit#slide=id.p
-[Intensive Kickoff: Trends in Tech & Ideation]: Lessons/01-intensive-kickoff.md
-[Team Formation]: Lessons/02-team-formation.md
-[Accessibility]:http://make.sc/accessibility-slides
-[Scoping your product effectively]: https://docs.google.com/presentation/d/1t6ydxhxKYdPg7R5n438EEhorI9GzJPKkVmxC5SuEtlA/edit?usp=sharing
-[Amazing Keynote Speeches]: Lessons/04-amazing-keynote-speeches.md
-[Pitching: intonation, body language, and expression]: Lessons/05-public-speaking.md
-[Shipping Is A Superpower]: Lessons/06-ship-all-the-things.md
-[Intensive Product Pitches Round 1]: Lessons/07-product-pitches-1.md
-[User Testing]: Lessons/08-user-testing-2.md
-[Intensive Product Pitches Round 2]: Lessons/09-product-pitches-2.md
-[Pitch Finalist Practice & Voting]: Lessons/10-pitch-finalist.md
-[Proposal Kickoff]: Lessons/11-proposal-kickoff.md
-[REQUIRED: Proposal Approval]: Lessons/12-required-proposal-approval.md
+**Intensive Retake Dates:**
 
+- **INT 1.1, 1.2, 2.1, 2.2:** Monday, April 13 – Friday, April 24 
+- **INT 1.3, 2.3:** Monday, April 13 - Friday, May 8
 
-## Part II - Portfolio Improvement and Career Readiness
+**Class Times:**
 
-Please choose one of the following options to complete by 9am on Monday morning. Turn in your artifact/deliverable for your task in the tracker.
+- Mon, Tue, Thu, Fri: 12:30pm - 1:30pm
 
-1. Pick an old project, improve it and add it to your portfolio. Turn in project live link or code link	
-1. Pick a new language, framework, or tool and complete a brief beginner tutorial/app with it. Turn in github repo	
-1. Pick a technical topic and write a 1500 word blog post about it. Turn in link to article	
-1. Reach out to 10 potential industry contacts and try to set up 2-3 phone conversations. Turn in spreadsheet of icon's names and linkedin profiles you reached out to.	
-1. Write a tutorial (written in Markdown) for how to build a simple project or implement a particular library or feature. Turn in github repo. 	
-1. Other: please confirm with your standup instructor. Choices must have a concrete deliverable/artifact that can be turned in
+| Class |          Date          |                 Topics                  |
+|:-----:|:----------------------:|:---------------------------------------:|
+|  1 |  Mon, April 13              | Intensive Kickoff |
+|  2 |  Tue, April 14               | Proposal Approval |
+|  3 |  Thu, April 16               | Scoping |
+|  4 |  Fri, April 17               | User Testing |
+|  5 |  Mon, April 20              | Work Session with Mitchell |
+|  6 |  Tue, April 21               | Student Topic Choice |
+|  7 |  Thu, April 23               | Work Session with Mitchell |
+|  8 |  Fri, April 24               | Work Session with Mitchell |
+| -  |  **END OF INT 1.1, 1.2, 2.1, 2.2** |   -  |
+|  9 |  Mon, April 27              | Work Session with Mitchell |
+| 10 |  Tue, April 28               | Student Topic Choice |
+| 11 |  Thu, April 30               | Work Session with Mitchell |
+| 12 |  Fri, May 1               | Work Session with Mitchell |
+| 13 |  Mon, May 4              | Work Session with Mitchell |
+| 14 |  Tue, May 5               | Work Session with Mitchell |
+| 15 |  Thu, May 7               | Work Session with Mitchell |
+| 16 |  Fri, May 8               | Work Session with Mitchell |
+| -  |  **END OF INT 1.3, 2.3** |   -  |
 
 
-## Evaluation
-To pass this course you must meet the following requirements:
 
-- Attend all class sessions
-- Get your Project Proposal approved on Monday, 3/16: juniors ([template](./Proposals/junior-proposal.md)), senior ([template](./Proposals/senior-proposal.md))
-- Meet the project requirements and score minimums as shown in the [SPD Intensive Product Rubric](https://docs.google.com/document/d/1IOQDmohLBEBT-hyr-2vgw1mbZUNsq3fHxVfH0oRmVt0/edit)
-- Present your pitch using the [Pitch Rubric](https://docs.google.com/document/d/1pdtRdgVISE07fFc8oBi5hCnLkwBQDFG5_3f79aDV1WU/preview)
 
 ## Make School Course Policies
 
