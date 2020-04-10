@@ -6,7 +6,7 @@ Intensive courses are hands on, immersive experiences designed to give students 
 
 **For retaking the intensive, you will use the appropriate repo to find all rubrics, specifications, documents, etc. The schedule for your intensive will be here, everything else will be in the appropriate repository**
 
-## [Course Tracker]()
+## [Intensive Tracker]()
 
 ## Intensive Repos
 
