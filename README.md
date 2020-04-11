@@ -41,25 +41,22 @@ For the intensive you are re-taking, use the appropriate repo to find:
 |:-----:|:----------------------:|:---------------------------------------:|
 |  1 |  Mon, April 13              | Intensive Kickoff |
 |  2 |  Tue, April 14               | Proposal Approval |
-|  3 |  Thu, April 16               | Scoping |
-|  4 |  Fri, April 17               | User Testing |
-|  5 |  Mon, April 20              | Work Session with Mitchell |
-|  6 |  Tue, April 21               | Student Topic Choice |
-|  7 |  Thu, April 23               | Work Session with Mitchell |
-|  8 |  Fri, April 24               | Pitch Presentations |
-| -  |  **END OF INT 1.1, 1.2, 2.1, 2.2** |   -  |
+|  3 |  Thu, April 16               | Proposal Approval |
+|  4 |  Fri, April 17               | Proposal Approval - **LAST DAY FOR APPROVALS!** |
+|  5 |  Mon, April 20              | Scoping|
+|  6 |  Tue, April 21               | User Testing|
+|  7 |  Thu, April 23               | Student Topic Choice |
+|  8 |  Fri, April 24               | Work Session with Mitchell |
 |  9 |  Mon, April 27              | Work Session with Mitchell |
-| 10 |  Tue, April 28               | Student Topic Choice |
+| 10 |  Tue, April 28               | Work Session with Mitchell |
 | 11 |  Thu, April 30               | Work Session with Mitchell |
-| 12 |  Fri, May 1               | Work Session with Mitchell |
+| 12 |  Fri, May 1               | Pitch Presentations (1.1, 1.2, 2.1, 2.2) |
+| -  |  **END OF INT 1.1, 1.2, 2.1, 2.2** |   -  |
 | 13 |  Mon, May 4              | Work Session with Mitchell |
 | 14 |  Tue, May 5               | Work Session with Mitchell |
 | 15 |  Thu, May 7               | Work Session with Mitchell |
-| 16 |  Fri, May 8               | Pitch Presentations |
+| 16 |  Fri, May 8               | Pitch Presentations (1.3, 2.3) |
 | -  |  **END OF INT 1.3, 2.3** |   -  |
-
-
-
 
 ## Make School Course Policies
 
