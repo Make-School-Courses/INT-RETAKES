@@ -30,7 +30,7 @@ For the intensive you are re-taking, use the appropriate repo to find:
 
 **Intensive Retake Dates:**
 
-- **INT 1.1, 1.2, 2.1, 2.2:** Monday, April 13 – Friday, April 24 
+- **INT 1.1, 1.2, 2.1, 2.2:** Monday, April 13 – Friday, May 1 
 - **INT 1.3, 2.3:** Monday, April 13 - Friday, May 8
 
 **Class Times:**
