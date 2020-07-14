@@ -6,7 +6,7 @@ Intensive courses are hands on, immersive experiences designed to give students 
 
 **For retaking the intensive, you will use the appropriate repo to find all rubrics, specifications, documents, etc. The schedule for your intensive will be here, everything else will be in the appropriate repository**
 
-## [Intensive Tracker](https://docs.google.com/spreadsheets/d/1KDwVlmC5kRrU6846iFF6tdzmUnEo25X9qRVVpf3rOjk/edit#gid=1456006823)
+<!--## [Intensive Tracker](https://docs.google.com/spreadsheets/d/1KDwVlmC5kRrU6846iFF6tdzmUnEo25X9qRVVpf3rOjk/edit#gid=1456006823)-->
 
 ## Intensive Repos
 
@@ -30,33 +30,23 @@ For the intensive you are re-taking, use the appropriate repo to find:
 
 **Intensive Retake Dates:**
 
-- **INT 1.1, 1.2, 2.1, 2.2:** Monday, April 13 – Friday, May 1 
-- **INT 1.3, 2.3:** Monday, April 13 - Friday, May 8
+Monday, July 20 - Friday, July 31st
 
 **Class Times:**
 
-- Mon, Tue, Thu, Fri: 12:30pm - 1:30pm
+- Mon, Tue, Wed, Thu: 11:30am - 1:00pm PST (9 total sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Mon, April 13              | Intensive Kickoff |
-|  2 |  Tue, April 14               | Proposal Approval |
-|  3 |  Thu, April 16               | Proposal Approval |
-|  4 |  Fri, April 17               | Proposal Approval - **LAST DAY FOR APPROVALS!** |
-|  5 |  Mon, April 20              | Scoping|
-|  6 |  Tue, April 21               | User Testing|
-|  7 |  Thu, April 23               | Student Topic Choice |
-|  8 |  Fri, April 24               | Work Session with Mitchell |
-|  9 |  Mon, April 27              | Work Session with Mitchell |
-| 10 |  Tue, April 28               | Work Session with Mitchell |
-| 11 |  Thu, April 30               | Work Session with Mitchell |
-| 12 |  Fri, May 1               | Pitch Presentations (1.1, 1.2, 2.1, 2.2) |
-| -  |  **END OF INT 1.1, 1.2, 2.1, 2.2** |   -  |
-| 13 |  Mon, May 4              | Work Session with Mitchell |
-| 14 |  Tue, May 5               | Work Session with Mitchell |
-| 15 |  Thu, May 7               | Work Session with Mitchell |
-| 16 |  Fri, May 8               | Pitch Presentations (1.3, 2.3) |
-| -  |  **END OF INT 1.3, 2.3** |   -  |
+|  1 |  Mon, July 20              | Intensive Kickoff / Proposal Approval - **MUST GET APPROVED TODAY!** |
+|  2 |  Tue, July 21               | Scoping |
+|  3 |  Wed, July 22               | Work Session with Mitchell + Dan |
+|  4 |  Thu, July 23               | Work Session with Mitchell + Dan |
+|  5 |  Mon, July 27               | Work Session with Mitchell + Dan|
+|  6 |  Tue, July 28                | Work Session with Mitchell + Dan|
+|  7 |  Wed, July 29                | Work Session with Mitchell + Dan |
+|  8 |  Thu, July 30                | Work Session with Mitchell + Dan |
+|  9 |  Fri, July 31               | **Final Projects Due** |
 
 ## Make School Course Policies
 
